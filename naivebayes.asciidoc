@@ -179,6 +179,7 @@ def evaluate_predictions(validation_set,validation_labels,trained_classifier):
     if prediction == label:
       correct_predictions += 1
       predictions_list.append("+")
+      
     else:
       predictions_list.append("-")
 
