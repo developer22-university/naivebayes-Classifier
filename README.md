@@ -1,4 +1,4 @@
-# naivebayes-Classifier
+# Naivebayes-Classifier
 Classifies positive and negative English reviews by using reviews.json file, working on large datset.
 
 
